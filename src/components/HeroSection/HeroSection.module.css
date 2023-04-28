@@ -1,0 +1,14 @@
+.chipShadow {
+  box-shadow: 0px 6.92865px 138.573px rgba(0, 0, 0, 0.06);
+}
+
+.backgroundGradient {
+  background-image: linear-gradient(
+    to top,
+    #eaefff,
+    #f0f3ff,
+    #f6f7ff,
+    #fbfbff,
+    #ffffff
+  );
+}

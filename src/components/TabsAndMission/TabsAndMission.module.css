@@ -1,0 +1,10 @@
+.mobileGradient {
+  background-image: linear-gradient(
+    to bottom,
+    #d6d7f9,
+    #eeedf6,
+    #eeedf6,
+    #eeedf6,
+    #f5f5f5
+  );
+}
