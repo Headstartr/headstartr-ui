@@ -28,7 +28,7 @@ function HeadstartrHead({ title, description }: HeadstartrsHeadProps) {
       />
       {/* OG Facebook */}
       <meta property="og:type" content="website" />
-      <meta property="og:url" content="https://headstartr.io/" />
+      <meta property="og:url" content="https://headstartr.com/" />
       <meta property="og:title" content={title} />
       <meta property="og:description" content={description} />
       <meta name="og:image" content={previewImage} />
@@ -36,7 +36,7 @@ function HeadstartrHead({ title, description }: HeadstartrsHeadProps) {
       <meta property="twitter:card" content="summary_large_image" />
       <meta name="twitter:site" content="@headstartr" />
       <meta name="twitter:creator" content="@headstartr" />
-      <meta property="twitter:url" content="https://headstartr.io/" />
+      <meta property="twitter:url" content="https://headstartr.com/" />
       <meta property="twitter:title" content={title} />
       <meta property="twitter:description" content={description} />
       <meta property="twitter:image" content={previewImage} />
