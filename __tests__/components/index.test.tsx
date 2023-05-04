@@ -7,7 +7,7 @@ describe('Home', () => {
     render(<Home />);
 
     const heading = screen.getByRole('heading', {
-      name: /p2p startup marketplace/i,
+      name: /P2P startup marketplace/i,
     });
 
     expect(heading).toBeInTheDocument();
