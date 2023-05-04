@@ -20,8 +20,9 @@ function JoinWaitlistBillboard() {
         <h2
           className={`flex flex-col text-3xl font-medium text-white lg:text-4xl ${gtWalsheinPro500.className}`}
         >
-          <span>Register early and get a chance to get an</span>
-          <span>invitation to the launch party</span>
+          <span>
+            Become a part of the early Headstartr community (Invite only)
+          </span>
         </h2>
       </div>
 

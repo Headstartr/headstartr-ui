@@ -16,7 +16,7 @@ function JoinCommunityCta() {
       </h1>
 
       <p className={`text-sm ${dmSans500.className}`}>
-        Join thousand users and teams contributing to the community.
+        Get invited for alpha access
       </p>
 
       {/* NOTE: Commented +28k temporarily */}

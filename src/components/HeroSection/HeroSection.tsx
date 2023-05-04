@@ -15,10 +15,15 @@ function ProjectTypeTicker() {
   const projectTypes = [
     { name: 'AI' },
     { name: 'Metaverse' },
-    { name: 'NFT' },
-    { name: 'Fintech' },
+    { name: 'FinTech' },
     { name: 'DeFi' },
+    { name: 'Play2Earn' },
+    { name: 'Gaming' },
+    { name: 'NFT' },
+    { name: 'LLM' },
+    { name: 'GLM' },
     { name: 'Web3' },
+    { name: 'Blockchain' },
   ];
 
   const MarqueChildrenCallback = [
@@ -68,22 +73,32 @@ function HeroSection() {
     <section
       className={`flex flex-col items-center gap-16 px-[10%] py-8 lg:px-0 ${styles.backgroundGradient}`}
     >
-      <h1
-        className={`flex flex-col items-center p-4 text-4xl font-bold lg:text-6xl ${gtWalsheinProBold.className}`}
-      >
-        <span>Ultimate Marketplace</span>
-        <span>
-          to{' '}
-          <span className="w-fit border-b-8 border-b-primaryHighlight">
-            Buy
-          </span>{' '}
-          and{' '}
-          <span className="w-fit border-b-8 border-b-secondaryHiglight">
-            Sell
-          </span>{' '}
-          Innovative Products
-        </span>
-      </h1>
+      <div className="flex flex-col items-center gap-3">
+        <h1
+          className={`flex flex-col items-center p-4 text-4xl font-bold lg:text-6xl ${gtWalsheinProBold.className}`}
+        >
+          <span>p2p startup marketplace</span>
+          <span>
+            to{' '}
+            <span className="w-fit border-b-8 border-b-primaryHighlight">
+              Buy
+            </span>{' '}
+            and{' '}
+            <span className="w-fit border-b-8 border-b-secondaryHiglight">
+              Sell
+            </span>{' '}
+            Innovative Products
+          </span>
+        </h1>
+        <p className="text-center lg:w-[55%]">
+          By connecting buyers and sellers directly on the blockchain, we
+          eliminate traditional barriers and enable users to jumpstart their
+          ideas{' '}
+          <strong>
+            without wasting years of time and money on research and development.
+          </strong>
+        </p>
+      </div>
 
       <div className="flex flex-col items-center gap-6">
         <JoinWaitlistBtn type="primary" />
