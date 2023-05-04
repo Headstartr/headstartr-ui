@@ -1,29 +1,29 @@
 export const buyerSteps = [
   {
     title: 'Search',
-    description: 'have suffered alteration in some form',
+    description: 'through our database of products',
   },
   {
     title: 'Acquire',
-    description: 'have suffered alteration in some form',
+    description: 'without hassle and anonymity ',
   },
   {
     title: 'Grow',
-    description: 'have suffered alteration in some form',
+    description: 'with our expert advisors wherever you require',
   },
 ];
 
 export const sellerSteps = [
   {
     title: 'Build',
-    description: 'have suffered alteration in some form',
+    description: 'innovative applications in trending technologies',
   },
   {
     title: 'Sell',
-    description: 'have suffered alteration in some form',
+    description: 'list on Headstartr and get acquired',
   },
   {
     title: 'Earn',
-    description: 'have suffered alteration in some form',
+    description: 'get acquired and turn product into profit',
   },
 ];
