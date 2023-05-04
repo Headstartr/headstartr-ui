@@ -49,13 +49,13 @@ function BuyerAndBuilderTabs() {
         <TraderTab
           traderType="BUYER"
           action="acquire"
-          traderCopy="With headstartr, you can acquire businesses or buy innovative applications directly from the builders without wasting years of time and money researching ideas and building them by your own."
+          traderCopy="With headstartr, you can buy innovative products directly from the builders without wasting years of time and money researching ideas and building them on your own."
         />
       ) : (
         <TraderTab
           traderType="SELLER"
           action="sell"
-          traderCopy="Have an innovative product you want to sell? Become a HS Seller and get acquired without hassle. If you're a serial shipper and born to build. Have an innovative product to showcase to the world and earn money from your side products."
+          traderCopy="Turn your passion for building into profits! Register as a seller and reach our network of potential buyers by showcasing your products."
         />
       )}
 
