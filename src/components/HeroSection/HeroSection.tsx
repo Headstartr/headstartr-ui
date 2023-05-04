@@ -77,7 +77,7 @@ function HeroSection() {
         <h1
           className={`flex flex-col items-center p-4 text-4xl font-bold lg:text-6xl ${gtWalsheinProBold.className}`}
         >
-          <span>p2p startup marketplace</span>
+          <span>P2P startup marketplace</span>
           <span>
             to{' '}
             <span className="w-fit border-b-8 border-b-primaryHighlight">
