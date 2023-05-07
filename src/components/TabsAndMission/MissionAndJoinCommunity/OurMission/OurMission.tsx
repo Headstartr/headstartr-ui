@@ -21,8 +21,7 @@ function OurMission() {
         </span>
         <span>promote entrepreneurship,</span>
         <span>empower individuals,</span>
-        <span>and grow commercial,</span>
-        <span>and acquire innovative,</span>
+        <span>and grow commercial</span>
         <span>user-focused products</span>
         <span>in web3 and AI.</span>
       </h2>
