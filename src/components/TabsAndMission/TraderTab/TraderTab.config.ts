@@ -24,6 +24,6 @@ export const sellerSteps = [
   },
   {
     title: 'Earn',
-    description: 'get acquired and turn product into profit',
+    description: 'turn your passion into profit',
   },
 ];
