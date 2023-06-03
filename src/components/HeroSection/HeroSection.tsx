@@ -77,26 +77,14 @@ function HeroSection() {
         <h1
           className={`flex flex-col items-center p-4 text-4xl font-bold lg:text-6xl ${gtWalsheinProBold.className}`}
         >
-          <span>P2P startup marketplace</span>
+          <span>P2P marketplace</span>
           <span>
-            to{' '}
-            <span className="w-fit border-b-8 border-b-primaryHighlight">
-              Buy
-            </span>{' '}
-            and{' '}
-            <span className="w-fit border-b-8 border-b-secondaryHiglight">
-              Sell
-            </span>{' '}
-            Innovative Products
+            for{' '}
+            innovative applications and tools
           </span>
         </h1>
         <p className="text-center lg:w-[55%]">
-          By connecting buyers and sellers directly on the blockchain, we
-          eliminate traditional barriers and enable users to jumpstart their
-          ideas{' '}
-          <strong>
-            without wasting years of time and money on research and development.
-          </strong>
+        Save months of time and effort on development by acquiring innovative solutions and Headstart your dream project
         </p>
       </div>
 

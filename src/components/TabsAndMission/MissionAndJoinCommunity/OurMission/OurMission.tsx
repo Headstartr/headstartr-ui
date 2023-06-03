@@ -19,11 +19,10 @@ function OurMission() {
         <span>
           Our <span className="text-primaryHighlight">Mission</span> is to
         </span>
-        <span>promote entrepreneurship,</span>
-        <span>empower individuals,</span>
-        <span>and grow commercial</span>
-        <span>user-focused products</span>
-        <span>in web3 and AI.</span>
+        <span>empower entrepreneurs</span>
+        <span>to build profitable,</span>
+        <span>successful businesses</span>
+        <span>faster and better.</span>
       </h2>
     </div>
   );
