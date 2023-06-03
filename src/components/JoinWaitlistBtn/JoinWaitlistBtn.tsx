@@ -6,7 +6,7 @@ function JoinWaitlistBtn({ type }: JoinWaitlistBtnProps) {
     <Link
       href="https://opt.headstartr.com/?ref=homepage"
       rel="noopener noreferrer"
-      target="_blank"
+      target="_self"
       className={`rounded-[73px] px-9 py-5 text-center font-semibold ${
         type === 'primary'
           ? 'bg-brandBlue text-white'
